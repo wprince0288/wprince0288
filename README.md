@@ -1,12 +1,14 @@
-- 👋 Hi, I’m @wprince0288
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning javascript
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me slack 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Hello, I'm [Walter Prince] 👋
+## 🚀 About Me
+I'm a student in full-stack web development expected to graduate May 2025.  
 
-<!---
-wprince0288/wprince0288 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🌱 I’m currently learning [Full-stack web development @ Bloom Institute of Technology].
+- 📫 How to reach me: [wprince0288@gmail.com].
+
+## 🛠️ Tech Stack
+- **Languages:** [HTML, Javascript, CSS]
+- **Frameworks:** [React, Node.js]
+- **Tools:** [Git]
+
+ ## 📫 Connect with Me
+[LinkedIn](www.linkedin.com/in/walter-prince-57a84b272) 
