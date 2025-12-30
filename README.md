@@ -1,23 +1,79 @@
 <h1 align="center">Hi 👋, I'm Walter Prince</h1>
-<h3 align="center">Full-Stack development student</h3>
+<h3 align="center">Full-Stack Web Development Student | JavaScript • React • Node.js</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=wprince0288&label=Profile%20views&color=0e75b6&style=flat" alt="wprince0288" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wprince0288" alt="wprince0288" /></a> </p>
-
-- 🌱 I’m currently learning **web development, arduino**
-
-- 📫 How to reach me **wprince0288@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/dev.to/wprince0288" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev.to/wprince0288" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/walter prince" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="walter prince" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=wprince0288&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+<p align="center">
+  💻 Passionate about building clean, functional web applications  
+  <br/>
+  🚀 Focused on modern JavaScript, APIs, and full-stack development  
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wprince0288&show_icons=true&locale=en&layout=compact" alt="wprince0288" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wprince0288&show_icons=true&locale=en" alt="wprince0288" /></p>
+### 👨‍💻 About Me
+- 🌱 Currently learning **Full-Stack Web Development** and **Arduino**
+- 🧠 Building projects with **React, Node.js, REST APIs, and SQL**
+- 🎯 Goal: Become a job-ready **Full-Stack Developer**
+- 📫 Reach me at **wprince0288@gmail.com**
+
+---
+
+### 🔗 Connect With Me
+<p align="left">
+  <a href="https://dev.to/wprince0288" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" height="30" width="40" />
+  </a>
+  <a href="https://www.linkedin.com/in/walter-prince" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+  </a>
+</p>
+
+---
+
+### 🛠️ Languages & Tools
+<p align="left">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" />
+  </a>
+  <a href="https://reactjs.org/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" />
+  </a>
+  <a href="https://nodejs.org">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" />
+  </a>
+  <a href="https://www.w3.org/html/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" />
+  </a>
+  <a href="https://www.w3schools.com/css/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" />
+  </a>
+  <a href="https://git-scm.com/">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" />
+  </a>
+  <a href="https://postman.com">
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" />
+  </a>
+  <a href="https://www.arduino.cc/">
+    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40" />
+  </a>
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=wprince0288&show_icons=true&layout=compact" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=wprince0288&show_icons=true" />
+</p>
+
+---
+
+<p align="center">
+  ⚡ Always learning. Always building.
+</p>
